@@ -1,6 +1,5 @@
-AAAAAAAAAAA
-AAAAAAA
-AAAAA
-dkm hung meo
-ngu vkl
-dmm
+#include<stdio.h>
+int gt(int n){
+}
+main(){
+}
